@@ -1,3 +1,2 @@
-# For-Danny
+# нахуй иди 
 
-you are gay

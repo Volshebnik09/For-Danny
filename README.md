@@ -1,7 +1,7 @@
 # Внимание Донателло
 
-<b style="color: #BF3030; font-size: 20px"> Пожалуйста заливай суда только собранный проект! </br>
-И не удаляй <a href='#!' style="text-decoration:none;">README.md</a>.</b>
+<span style="color: #BF3030; font-size: 20px;font-weight: bold;"> Пожалуйста заливай суда только собранный проект! </br>
+И не удаляй <a href='#!' style="text-decoration:none">README.md</a>.</span>
 
 ---------------------------------------
 

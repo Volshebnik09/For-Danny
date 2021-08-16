@@ -1,7 +1,9 @@
 # Внимание Донателло
 
-<span style="color: #BF3030; font-size: 20px;font-weight: bold;"> Пожалуйста заливай суда только собранный проект! </br>
-И не удаляй <a href='#!' style="text-decoration:none">README.md</a>.</span>
+![](https://lingtalfi.com/services/pngtext?color=cc0000&size=15&text=Пожалуйста%20заливай%20только%20собранный%20проект!%20)
+
+![](https://lingtalfi.com/services/pngtext?color=cc0000&size=15&text=И%20не%20удаляй%20README.md.)
+
 
 ---------------------------------------
 

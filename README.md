@@ -2,7 +2,7 @@
 
 ![](https://lingtalfi.com/services/pngtext?color=cc0000&size=15&text=Пожалуйста%20заливай%20только%20собранный%20проект!%20)
 
-![](https://lingtalfi.com/services/pngtext?color=cc0000&size=15&text=И%20не%20удаляй%20README.md.)
+![](https://lingtalfi.com/services/pngtext?color=cc0000&size=10&text=Перезаливай%20мои%20файлы%20,%20но%20не%20удаляй%20README.md.)
 
 
 ---------------------------------------
